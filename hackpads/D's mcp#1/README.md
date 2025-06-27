@@ -7,7 +7,7 @@
 - 12x Through-Hole 1N4148 Diodes
 - M3x16mm screws
 ### PCB Design
-![Screenshot](pics/PCB_design.png)
+![Screenshot](pics/pcb_design.png)
 ### Schematic Design
 ![Screenshot](pics/Schematic_design.png)
 ### Case Design
